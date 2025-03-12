@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "67cced5bb3f4cc7e8ca670a7"
+  },
+  "storeId": "123456",
+  "nome": "Academia Fitness Pro",
+  "endereco": {
+    "rua": "Av. das Palmeiras",
+    "numero": 100,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01010-000"
+  },
+  "contato": {
+    "telefone": "(11) 98765-4321",
+    "email": "contato@fitnesspro.com"
+  },
+  "categorias": [
+    "Suplementos",
+    "Roupas Esportivas"
+  ],
+  "produtos": [
+    {
+      "produtoId": "p001",
+      "nome": "Camiseta Dry Fit",
+      "preco": 79.9,
+      "estoque": 50
+    },
+    {
+      "produtoId": "p002",
+      "nome": "Whey Protein 900g",
+      "preco": 149.99,
+      "estoque": 20
+    }
+  ],
+  "dataCriacao": "2024-03-07T10:30:00Z",
+  "ativo": true
+}]
