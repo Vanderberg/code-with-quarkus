@@ -1,0 +1,38 @@
+[
+  {
+    "clienteId": "123",
+    "itens": [
+      {
+        "produtoId": "p001",
+        "nome": "Camiseta Dry Fit",
+        "quantidade": 2,
+        "preco": 79.90
+      },
+      {
+        "produtoId": "p002",
+        "nome": "Whey Protein 900g",
+        "quantidade": 1,
+        "preco": 149.99
+      }
+    ],
+    "total": 309.79
+  },
+  {
+    "clienteId": "456",
+    "itens": [
+      {
+        "produtoId": "p003",
+        "nome": "Creatina Monohidratada",
+        "quantidade": 3,
+        "preco": 89.90
+      },
+      {
+        "produtoId": "p004",
+        "nome": "Corda de Pular Profissional",
+        "quantidade": 1,
+        "preco": 49.99
+      }
+    ],
+    "total": 319.69
+  }
+]
